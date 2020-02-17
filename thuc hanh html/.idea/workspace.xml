@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c89d4729-e876-4aaa-8f83-1a157da070ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chinh noi dung cv.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv ca nhan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test 123/form so thich.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test 123/form tim kiem goolge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test 123/style dang ky hoc vien.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test 123/style so thich.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test 123/thuc hanh tao bang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/New Microsoft Word Document.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chinh noi dung cv.css" beforeDir="false" afterPath="$PROJECT_DIR$/chinh noi dung cv.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +54,17 @@
       <updated>1581669836308</updated>
       <workItem from="1581669837652" duration="3338000" />
       <workItem from="1581688234378" duration="3741000" />
+      <workItem from="1581902868746" duration="16018000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="284" width="515" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581903836444">
+      <screen x="0" y="27" width="1366" height="675" />
+    </state>
+    <state x="425" y="284" width="515" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.675@0.27.1366.675" timestamp="1581903836444" />
   </component>
 </project>
